@@ -3,4 +3,4 @@ Pythonista
 
 Useful scripts for iOS Pythonista app.
 
-- **CSV.py** - A sample showing how to manipulate comma separated values data yanked from the system clipboard.
+- **CSV.py** - A sample Python script showing how to manipulate comma separated values (CSV) yanked from the system clipboard.
