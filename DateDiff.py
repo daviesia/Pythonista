@@ -1,3 +1,7 @@
+# Program to calculate the days between two dates.
+# Author: Ian D. Davies
+# Date: October 8, 2014
+# ---------------------------------------------------------------------
 import datetime
 
 today = datetime.date.today()
