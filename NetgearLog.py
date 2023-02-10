@@ -1,7 +1,11 @@
 def formatLine(line):
      # Reformat line to make it look nicer.
-     
-     return(". "+line)
+     lType=line[1:8]
+ 
+     if lType=='DHCP IP':
+         return(". "+line)
+     else:
+         return(">> "+line)
 
 def main():
 
